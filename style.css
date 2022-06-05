@@ -1,0 +1,15 @@
+*{
+    /*Tiro Devanagari Marathi font  */
+    font-family: 'Tiro Devanagari Marathi', serif;
+
+    /* noto serif font */
+    /* font-family: 'Noto Serif Devanagari', serif; */
+}
+
+body{
+    background-color: black;
+}
+
+.nav-link{
+    color: #ffc107;
+}
